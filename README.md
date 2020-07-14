@@ -1,7 +1,7 @@
 ## Hi there I'm Suraj Vishwakarma 👋
 
-### I develop Software Robots and do Data Engineering.
-### I have a soft corner for RPA and love doing it.
+### 🔭 I develop Software Robots and do Data Engineering.
+### 💗 I have a soft corner for RPA and love doing it.
 ### 🌱 I’m currently learning GCP and Conversational AI
 <!--
 **vsuraj3/vsuraj3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
